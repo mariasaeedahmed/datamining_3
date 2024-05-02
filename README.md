@@ -1,7 +1,5 @@
 # datamining_3
-Certainly! Here's a README file for your script:
 
----
 
 ## Transformer-based Autoencoder with GAN-based Data Augmentation
 
